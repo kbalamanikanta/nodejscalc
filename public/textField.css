@@ -1,0 +1,10 @@
+.textField
+{
+ 	background-color: #afc8b8;
+	border-radius:5px;
+	padding: 10px ;
+	display: inline-block;
+	margin: 10px 10px 10px 10px ;
+	height: 10px;
+	width: 300px;
+}

@@ -1,0 +1,16 @@
+button{
+	border-radius:5px;
+    cursor: pointer;
+	background-color: #C8C8E9;
+	padding: 10px 20px 10px 20px;
+	margin: 0px 0px 0px 0px;
+	display: inline-block;
+    font:bold 11px/14px Verdana;
+    text-shadow:rgba(0,0,0,0.2) 0 1px 0px;
+    color:black;
+}
+button:hover,
+button:focus,
+button:active{
+    background:#a1d8f0;
+}
