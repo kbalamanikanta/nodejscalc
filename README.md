@@ -1,14 +1,22 @@
-# Simple-NodeJs-Calculator
-Simple Calculator 
+[![Build Status](https://travis-ci.org/tortuvshin/nodechat.svg?branch=master)](https://travis-ci.org/tortuvshin/nodechat)
+[![GitHub license](https://img.shields.io/badge/license-GPLv2-blue.svg?style=flat-square)](https://raw.githubusercontent.com/tortuvshin/nodechat/master/LICENSE)
 
-# How to run tests:
 
-# Server
+A sample server side, real time calculator using Node.js and Socket.io
 
-using command prompt or terminal
-inside server directory run node server.js
+### Run on local computer
+=
+- `git clone https://github.com/tortuvshin/nodejscalc.git`
+- `cd nodejscalc`
+- `npm install`
+- `node server.js .`
+- For first time, launch link on browser
+  [http://localhost:8080](http://localhost:8080)
 
-# Client
+### License
+[![GitHub license](https://img.shields.io/badge/license-GPLv2-blue.svg?style=flat-square)](https://raw.githubusercontent.com/tortuvshin/nodechat/master/LICENSE)
 
-using browser go to http://localhost:8080
+### Author
+[Tortuvshin Byambaa](http://tortuvshin.github.io/)
+
 
